@@ -14,7 +14,7 @@ KangaCook Order Application is a React-based web app for managing meal orders an
 - **React**: Frontend library used to build the user interface.
 - **Axios**: For making HTTP requests to the backend API.
 - **Tailwind CSS**: Utility-first CSS framework for styling the app.
-- **Django (Backend)**: Handles the backend API for order and customer management.
+- **Django (Backend)**: Handles the backend API for order and customer management. ```https://github.com/dawitadmassu/kangacookbackend```
 
 ## Setup
 
